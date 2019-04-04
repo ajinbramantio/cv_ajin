@@ -51,6 +51,7 @@ function DownloadCV() {
     let test = (document.getElementById('CV').href =
       './document/CURRICULUM VITAE FADHILA FAJRIN.pdf')
     console.log(test)
+    // return test
   } else {
     txt = 'anda gagal mendownload CV Fadhila Fajrin B'
   }
