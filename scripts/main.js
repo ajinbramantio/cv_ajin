@@ -48,11 +48,11 @@ $('a.smooth-scroll').click(function(event) {
 function DownloadCV() {
   let txt = ''
   if (confirm('are you sure, you want download my CV?')) {
-    document.getElementById('CV').src =
-      './document/CURRICULUM VITAE FADHILA FAJRIN.docx'
-    txt = 'sucess silahkan klik ok'
+    let test = (document.getElementById('CV').href =
+      './document/CURRICULUM VITAE FADHILA FAJRIN.pdf')
+    console.log(test)
   } else {
     txt = 'anda gagal mendownload CV Fadhila Fajrin B'
   }
-  alert(txt)
+  // alert(txt)
 }
