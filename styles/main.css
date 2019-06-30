@@ -5194,8 +5194,9 @@ Created using IcoMoon - icomoon.io
 }
 @media only screen and (max-width: 330px) {
  .page-header .container > .content-center {
-  top: 60%;
-  left: 52%;
+  top: 55%;
+  left: 51%;
+      padding: 0 0px;
 }
 }
 .page-header .category,
