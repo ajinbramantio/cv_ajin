@@ -7149,8 +7149,8 @@ Created using IcoMoon - icomoon.io
 }
 
 .cc-profile-image a:hover img {
-  -webkit-transform: scale(1.06, 1.06);
-          transform: scale(1.06, 1.06);
+  -webkit-transform: scale(1.4, 1.4);
+          transform: scale(1.4, 1.4);
 }
 
 .cc-profile-image a:hover:before {
