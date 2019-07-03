@@ -1484,15 +1484,16 @@ fieldset[disabled]
 .btn.btn-icon.btn-lg,
 .navbar .navbar-nav > a.btn.btn-icon.btn-lg {
   height: 3.6rem;
-  min-width: 3.6rem;
-  width: 3.6rem;
+  min-width: 3.7rem;
+  width: 3.7rem;
 }
 
 .btn.btn-icon.btn-lg i.now-ui-icons,
 .btn.btn-icon.btn-lg i.fa,
 .navbar .navbar-nav > a.btn.btn-icon.btn-lg i.now-ui-icons,
 .navbar .navbar-nav > a.btn.btn-icon.btn-lg i.fa {
-  font-size: 1.325rem;
+  /* font-size: 1.325rem; */
+  font-size: 1.925rem;
 }
 
 .btn.btn-icon:not(.btn-footer) i.now-ui-icons,
@@ -1501,7 +1502,7 @@ fieldset[disabled]
 .navbar .navbar-nav > a.btn.btn-icon:not(.btn-footer) i.fa {
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 49%;
   -webkit-transform: translate(-12px, -12px);
           transform: translate(-12px, -12px);
   line-height: 1.5626rem;

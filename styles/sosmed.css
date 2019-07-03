@@ -1,0 +1,15 @@
+.fb {
+  color: white;
+}
+.fb:hover {
+  background-color: #3c5998;
+}
+.hub:hover {
+  background-color: #151618;
+}
+.linkedin:hover {
+  background-color: #1377b5;
+}
+.instagram:hover {
+  background-image: url('../images/new-instagram-color-background-latest.jpg');
+}
